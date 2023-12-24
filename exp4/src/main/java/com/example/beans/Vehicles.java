@@ -1,5 +1,5 @@
 package com.example.beans;
-
+import org.*;
 public class Vehicles {
     private String name;
 

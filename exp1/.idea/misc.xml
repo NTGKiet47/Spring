@@ -6,7 +6,24 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../exp2/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp3/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp4/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp5/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp6/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp7/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp9/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp10/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp_10/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp_11/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp_12/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../exp_10/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp_11/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp_12/pom.xml" />
+      </set>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
