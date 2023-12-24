@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/exp1/pom.xml" />
+        <option value="$PROJECT_DIR$/exp2/pom.xml" />
+        <option value="$PROJECT_DIR$/exp3/pom.xml" />
+        <option value="$PROJECT_DIR$/exp4/pom.xml" />
+        <option value="$PROJECT_DIR$/exp5/pom.xml" />
+        <option value="$PROJECT_DIR$/exp6/pom.xml" />
+        <option value="$PROJECT_DIR$/exp7/pom.xml" />
+        <option value="$PROJECT_DIR$/exp10/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example4/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example5/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example6/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example7/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example8/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example9/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_10/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_11/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_12/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_13/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_14/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_15/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_16/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_17/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_18/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_19/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_20/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_21/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_22/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_23/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_24/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_25/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_26/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_27/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_28/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_29/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_30/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_31/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_32/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_33/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_34/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_35/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_36/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_37/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_38/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_39/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_40/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-3.1.2/example_41/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
