@@ -16,12 +16,11 @@
         <option value="$PROJECT_DIR$/../exp_10/pom.xml" />
         <option value="$PROJECT_DIR$/../exp_11/pom.xml" />
         <option value="$PROJECT_DIR$/../exp_12/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp_11.1/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp_11.2/pom.xml" />
+        <option value="$PROJECT_DIR$/../ASSIGNMENT1_Beans_Autowiring/pom.xml" />
+        <option value="$PROJECT_DIR$/../exp_13 - Assignment1_Beans_Autowired/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/../exp_12/pom.xml" />
-      </set>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
