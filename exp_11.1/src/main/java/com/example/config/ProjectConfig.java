@@ -13,7 +13,7 @@ public class ProjectConfig {
     @Bean
     public Vehicle vehicle(){
         Vehicle vehicle = new Vehicle();
-        vehicle.setName("Wave");
+        vehicle.setName("Wave alpha");
         return vehicle;
     }
     @Bean
