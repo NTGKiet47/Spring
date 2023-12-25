@@ -31,7 +31,7 @@ public class ProjectConfig {
     @Bean ("Ford")
     Vehicles vehicle3(){
         var v1 = new Vehicles();
-        v1.setName("Ford Everest 4x4");
+        v1.setName("Ford Everest");
         return v1;
     }
 }
